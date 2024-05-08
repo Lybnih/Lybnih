@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou estudante de Análise e Desenvolvimento de Sistemas
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 🎓 Estudo no Senai Armando Arruad Pereira SCS
 
