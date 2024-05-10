@@ -4,7 +4,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-🎓 Estudo no Senai Armando Arruad Pereira SCS
+🎓 Estudo no Senai Armando Arruda Pereira SCS
 
 👩‍💻 Atualmente trabalho com Tecnologias Educacionais na escola Sesi-080
 
