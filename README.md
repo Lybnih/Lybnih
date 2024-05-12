@@ -5,7 +5,7 @@
    <body >
       <a >
          <img align="right" alt="Artstation" src="https://github.com/Lybnih/Lybnih/assets/132515156/efc6f739-0401-4565-9d08-75eed470616d"
-         width="30%" height="30%">
+         width="32%" height="32%">
       </a>
    </body> 
   </br>
