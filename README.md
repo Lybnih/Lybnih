@@ -75,4 +75,4 @@
 </p> 
 
 <hr>
-<p align="center">"Garotas, vamos dar risada. Assim, espantaremos o medo.” - Meu Vizinho Totoro ⭐</p>
+<p align="center">"Garotas, vamos dar risada. Assim, espantaremos o medo.” - Meu Amigo Totoro ⭐</p>
