@@ -20,9 +20,9 @@
   
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-🎓 Estudo no Senai Armando Arruda Pereira SCS
+🎓 Senai Armando Arruda Pereira - SCS
 
-👩‍💻 Atualmente estagiando com Tecnologias Educacionais na escola Sesi-080
+👩‍💻 Tecnologias Educacionais - Sesi-080
 
 ✒️ Hobbies: Viola clássica, games e doramas 
 
