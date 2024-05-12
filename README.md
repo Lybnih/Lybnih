@@ -1,5 +1,6 @@
 # Oii, me chamo Vitória Lybnih 👋
 ### Sobre mim
+![](https://komarev.com/ghpvc/?username=your-github-lybnih&color=blueviolet)
 <br> 
    <body >
       <a >
@@ -8,6 +9,7 @@
       </a>
    </body> 
   </br>
+  
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 🎓 Estudo no Senai Armando Arruda Pereira SCS
@@ -36,8 +38,10 @@
   </a>
 </div>
 
-### Entre em contato! 📭
+### Escutando! :musical_note:
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l31ogoi782koitqmjwnj6wrca&count=1)
 
+### Entre em contato! 📭
 <div style="text-align: center;">
   <a href="https://www.instagram.com/vi_lybnih/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
