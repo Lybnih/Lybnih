@@ -1,3 +1,8 @@
+<p align="center">
+<p align="center">
+  <img src="https://github.com/Lybnih/Lybnih/assets/132515156/185e163a-6d9a-4949-bccd-bf0016e8ed94" />
+</p>
+
 # Oii, me chamo Vitória Lybnih 👋
 ### Sobre mim
 ![](https://komarev.com/ghpvc/?username=your-github-lybnih&color=blueviolet)
