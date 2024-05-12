@@ -1,7 +1,14 @@
 # Oii, me chamo Vitória Lybnih 👋
 
 ### Sobre mim
-
+<br> 
+   <body >
+      <a >
+         <img align="right" alt="Artstation" src="https://github.com/Lybnih/Lybnih/assets/132515156/efc6f739-0401-4565-9d08-75eed470616d"
+         width="30%" height="30%">
+      </a>
+   </body> 
+  </br>
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 🎓 Estudo no Senai Armando Arruda Pereira SCS
