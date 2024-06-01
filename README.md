@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/lybnih-vitoria-3b52501b9/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:contato@lybnihvitoria" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lybnihvitoria@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
