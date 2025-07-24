@@ -18,11 +18,13 @@
 
 <p align="center">
   
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Formada em Análise e Desenvolvimento de Sistemas - 12/2024
 
 🎓 Senai Armando Arruda Pereira - SCS
 
 👩‍💻 Tecnologias Educacionais - Sesi-080
+
+💻 Atualmente Aprendiz na CBC
 
 ✒️ Hobbies: Viola clássica, games e doramas 
 
