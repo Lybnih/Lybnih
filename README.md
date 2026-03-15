@@ -24,7 +24,7 @@
 
 👩‍💻 Tecnologias Educacionais - Sesi-080
 
-💻 Atualmente Aprendiz na CBC
+💻 Procurando por oportunidades
 
 ✒️ Hobbies: Viola clássica, games e doramas 
 
@@ -56,15 +56,12 @@
 <br>
 
 ### Escutando! :musical_note:
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l31ogoi782koitqmjwnj6wrca&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zcyzomx3uk3veplhuu72q5yavy&count=1)
 
 <br>
 
 ### Entre em contato! 📭
 <div style="text-align: center; margin-bottom: 50px;">
-  <a href="https://www.instagram.com/vi_lybnih/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/lybnih-vitoria-3b52501b9/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
